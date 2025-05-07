@@ -9,7 +9,7 @@
 <br>I participate in different gamejams and hackathons, also I have some of my own pet-projects.
 <br>• Age: <b>18</b> • English level: <b>B2</b> • Main prog language: <b>Python</b> •
 <br>
-<br>• Current private project: Object 10 – Alice •</p>
+<br>• Current private project: Nicole •</p>
 
 --------------------------------------------------
 
