@@ -1,16 +1,23 @@
-## Hi there 👋
+<h3 align="center">Hey there
+    <br>👾 I'm just a developer 👾
+    <br>Also known as a game & sound designer</h3>
 
-<!--
-**HenryLoM/HenryLoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------------
 
-Here are some ideas to get you started:
+<h3 align="center">Info about me:</h3>
+    <p align="center">
+        I participate in different gamejams and hackathons, also I have some of my own pet-projects.<br>
+        • Age: <b>19</b> • English level: <b>B2</b> • Main prog language: <b>Python</b> •<br>
+    </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------
+
+<h3 align="center">Experience & Skills</h3>
+
+  #### Languages<br>
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css&theme=dark)](https://skillicons.dev)
+  
+  #### Related technologies<br>
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,ollama,notion,pycharm,vscode&theme=dark)](https://skillicons.dev)
+
+--------------------------------------------------
