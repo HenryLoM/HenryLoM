@@ -1,21 +1,23 @@
 <img src="./assets/banner.jpg" alt="banner" align="right" width="350px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=D1D7E0&vCenter=true&width=475&height=20&lines=There+are+things+I'll+never+understand)
+<p align="center" style="margin: 0">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&color=D1D7E0&width=475&height=20&lines=There+are+things+I'll+never+understand" alt="...">
+</p>
 
 ---
 
 <h3 align=center>✦ Welcome to my mink ✦</h3>
-<p>I'm just a developer.<br>
+<p align=center>I'm just a developer.<br>
 Also a bit of a game & sound designer.</p>
-<p>⟡ <b>Age:</b> 19 ⟡ <b>English level:</b> B2 ⟡ <b>Main prog language:</b> Python ⟡</p>
+<p align=center>⟡ <b>Age:</b> 19 ⟡ <b>English level:</b> B2 ⟡ <b>Main prog language:</b> Python ⟡</p>
 
 ___
 
 <h3 align=center>✦ Languages ✦
 <br>
 <div align=center>
+    <img width="48" height="48" src="assets/c.svg"          alt="c"/>
     <img width="48" height="48" src="assets/python.svg"     alt="python"/>
-    <img width="48" height="48" src="assets/javascript.svg" alt="javascript"/>
     <img width="48" height="48" src="assets/html.svg"       alt="html"/>
     <img width="48" height="48" src="assets/css.svg"        alt="css"/>
 </div>
