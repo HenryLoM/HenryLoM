@@ -1,5 +1,9 @@
 <img src="./assets/banner.png" alt="banner" align="right" width="350px">
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&color=D1D7E0&width=475&height=35&lines=There+are+things+I'll+never+understand" alt="There are things I'll never understand">
+</p>
+
 ---
 
 <h3 align=center>✦ Welcome to my mink ✦</h3>
