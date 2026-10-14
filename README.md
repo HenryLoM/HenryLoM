@@ -1,8 +1,4 @@
-<img src="./assets/banner.png" alt="banner" align="right" width="385px">
-
-<p align="center" style="margin-top: 15px">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&color=D1D7E0&width=475&height=20&lines=There+are+things+I'll+never+understand" alt="...">
-</p>
+<img src="./assets/banner.png" alt="banner" align="right" width="350px">
 
 ---
 
@@ -19,10 +15,10 @@ ___
 <h3 align=center style="margin-top: 15px">✦ Languages ✦
 <br>
 <div align=center>
-    <img width="48" height="48" src="assets/c.svg"          alt="c"/>
-    <img width="48" height="48" src="assets/python.svg"     alt="python"/>
-    <img width="48" height="48" src="assets/html.svg"       alt="html"/>
-    <img width="48" height="48" src="assets/css.svg"        alt="css"/>
+    <img width="48" height="48" src="assets/c.svg"      alt="c"/>
+    <img width="48" height="48" src="assets/python.svg" alt="python"/>
+    <img width="48" height="48" src="assets/html.svg"   alt="html"/>
+    <img width="48" height="48" src="assets/css.svg"    alt="css"/>
 </div>
 
 <h3 align=center style="margin-top: 15px">✦ Related technologies ✦
@@ -35,17 +31,10 @@ ___
     <img width="48" height="48" src="assets/vscode.svg"   alt="vscode"/>
 </div>
 
-<h3 align=center style="margin-top: 15px">✦ OS ✦
-<br>
-<div>
-    <img width="48" height="48" src="assets/macos.svg"  alt="macos"/>
-    <img width="48" height="48" src="assets/debian.svg" alt="debian"/>
-</div>
-
 <br>
 
 <div align="left">
-   
+
 ```bash
 echo "Someone said open‑source is evil. I wanna be a villain then." > me.txt
 ```
